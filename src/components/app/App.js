@@ -15,7 +15,7 @@ export const App = () => {
             <AppHeader/>
             <main>
                 <Routes>
-                    <Route element={<MainPage/>} path="/" />
+                    <Route element={<MainPage/>} path="/project_marvel" />
                     <Route element={<ComicsPage/>} path="/comics"/>
                     <Route element={<SingleComicPage/>} path="/comics/:comicId"/>
                     <Route element={<Page404/>} path="*"/>

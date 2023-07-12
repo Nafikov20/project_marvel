@@ -6,7 +6,7 @@ export const Page404 = () => {
         <div>
             <ErrorMessage />
             <p>not page</p>
-            <Link to="/">Back to main page</Link>
+            <Link to="/project_marvel">Back to main page</Link>
         </div>
     )
 

@@ -1,5 +1,5 @@
 import './appHeader.scss';
-import {Link, NavLink, useParams} from "react-router-dom";
+import {Link, NavLink} from "react-router-dom";
 import {ROUTES} from "../../constanta/Routes";
 
 const AppHeader = () => {
