@@ -1,4 +1,4 @@
 export const ROUTES = {
-    characters: '/project_marvel',
+    characters: '/',
     comics: '/comics',
 }
